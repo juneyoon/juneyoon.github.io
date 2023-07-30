@@ -1,3 +1,13 @@
+---
+layout: page
+title: Privacy policy
+permalink: /contact
+---
+
+# Contact
+
+You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+
 <h1>Privacy policy</h1>
 <p>We respect your privacy and are committed to protecting it through our compliance with this privacy policy (&#8220;Policy&#8221;). This Policy describes the types of information we may collect from you or that you may provide (&#8220;Personal Information&#8221;) in the &#8220;Mind teller&#8221; mobile application (&#8220;Mobile Application&#8221; or &#8220;Service&#8221;) and any of its related products and services (collectively, &#8220;Services&#8221;), and our practices for collecting, using, maintaining, protecting, and disclosing that Personal Information. It also describes the choices available to you regarding our use of your Personal Information and how you can access and update it.</p>
 <p>This Policy is a legally binding agreement between you (&#8220;User&#8221;, &#8220;you&#8221; or &#8220;your&#8221;) and this Mobile Application developer (&#8220;Operator&#8221;, &#8220;we&#8221;, &#8220;us&#8221; or &#8220;our&#8221;). If you are entering into this Policy on behalf of a business or other legal entity, you represent that you have the authority to bind such entity to this Policy, in which case the terms &#8220;User&#8221;, &#8220;you&#8221; or &#8220;your&#8221; shall refer to such entity. If you do not have such authority, or if you do not agree with the terms of this Policy, you must not accept this Policy and may not access and use the Mobile Application and Services. By accessing and using the Mobile Application and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Policy. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.</p>
