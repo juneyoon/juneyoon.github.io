@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Project Two'
+title: 'Project'
 ---
 
 Preparing services
