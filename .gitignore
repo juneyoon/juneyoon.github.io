@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/juneyoon.github.io/FileContentIndex/5a85bcdc-9f22-4578-a660-f68244599bc1.vsidx
+/.vs/juneyoon.github.io/FileContentIndex/3b408249-e353-4cca-8c28-727eb6582ac0.vsidx
+/.vs/juneyoon.github.io/FileContentIndex/63af6e2f-fcdd-4b25-b384-1beda68d7c58.vsidx
+*.vsidx
+/.vs/slnx.sqlite
+/.gitignore
+/.gitignore
