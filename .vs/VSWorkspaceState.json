@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\pages",
+    "\\_includes",
+    "\\_layouts"
   ],
-  "SelectedNode": "\\C:\\Users\\junem\\Source\\Repos\\juneyoon.github.io",
+  "SelectedNode": "\\pages\\blog.md",
   "PreviewInSolutionExplorer": false
 }
